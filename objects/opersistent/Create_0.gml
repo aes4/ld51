@@ -1,4 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
+debug = false
+vol = 0.5
+finaltime = 0

@@ -1,4 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
+draw_text(oplayer.x - 64, oplayer.y - 85, "speed: " + string(oplayer.s))
+draw_text(oplayer.x - 64, oplayer.y - 100, "incurve: " + string(oplayer.incurve))
+draw_text(oplayer.x - 64, oplayer.y - 115, "spread: " + string(oplayer.spread))
+draw_text(oplayer.x - 64, oplayer.y - 130, "midair: " + string(oplayer.midair))
+draw_text(oplayer.x - 64, oplayer.y - 145, "leftshellmidair: " + string(oplayer.leftshellmidair))
+draw_text(oplayer.x - 64, oplayer.y - 160, "next: " + string(oplayer.next))
+draw_text(oplayer.x - 64, oplayer.y - 175, "dashes: " + string(oplayer.dashes))

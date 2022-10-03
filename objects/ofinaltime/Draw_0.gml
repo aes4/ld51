@@ -1,5 +1,1 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
-
+draw_text(x, y, string(opersistent.finaltime) + " frames or steps\n"  + string(opersistent.finaltime/60) + " secs\n" + string(round(opersistent.finaltime/60)) + " seconds(rounded),")

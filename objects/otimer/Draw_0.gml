@@ -1,3 +1,1 @@
-/// @description Insert description here
-// You can write your code in this editor
-
+draw_text(oplayer.x - 64, oplayer.y - 64, "time: " + string(round(timer/60)) + " seconds")
